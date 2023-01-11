@@ -1,1 +1,3 @@
 # Video Reccomendation System
+
+In this project...
