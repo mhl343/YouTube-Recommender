@@ -1,4 +1,4 @@
-# Video Reccomendation System
+# Video Recommendation System
 
 In this project...
 
